@@ -204,6 +204,7 @@
 - [Getting Started With Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome)
 - [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://interplanetarygatsby.com/ipfs-deploy/)
 - [A Broad Discussion on JAMstack & E-Commerce (Podcast & Transcript)](https://snipcart.com/jamstack-ecommerce-podcast)
+- [Building A JAMstack blog: Gatsby and ButterCMS on Netlify](https://buttercms.com/blog/building-a-jamstack-blog-gatsby-and-buttercms-on-netlify)
 
 ## Podcasts
 
